@@ -1,0 +1,19 @@
+html {
+	height: 100%;
+	overflow-y: hidden;
+}
+
+body {
+	background: #FF5722;
+	height: 100vh;
+}
+
+#main {
+	color: white;
+	font-size: 50px;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
